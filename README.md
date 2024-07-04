@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any CV projects
 - 📫 How to reach me: send me email at himanipaudayal07@kaist.ac.kr
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I code so its not fun
+- ⚡ Fun fact: I code so its not fun :)
 
 <!---
 himanii777/himanii777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
