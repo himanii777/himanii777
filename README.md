@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanii777
 - 👀 I’m interested in DL,CV
-- 🌱 I’m currently learning advanced DL architectures, GANs, diffusion models and exploring computer vision applications.
+- 🌱 I’m currently working on GANs
 - 💞️ I’m looking to collaborate on any CV projects
 - 📫 How to reach me: send me email at himanipaudayal07@kaist.ac.kr
 - 😄 Pronouns: she/her
