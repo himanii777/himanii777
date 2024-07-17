@@ -3,7 +3,6 @@
 - 🌱 I’m currently working on GANs
 - 💞️ I’m looking to collaborate on any CV projects
 - 📫 How to reach me: send me email at himanipaudayal07@kaist.ac.kr
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I code so nothing is not fun :)
 
 <!---
