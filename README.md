@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @himanii777
-- 👀 I’m interested in DL,CV
-- 🌱 I’m currently working on GANs
-- 💞️ I’m looking to collaborate on any CV projects
-- 📫 How to reach me: send me email at himanipaudayal07@kaist.ac.kr
-- ⚡ Fun fact: I code so nothing is not fun :)
+👋 Hi, I’m Himani. I have recently been very interested in deep learning so hope I can do good projects (lol)
 
-<!---
-himanii777/himanii777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Email: himanipaudayal07@kaist.ac.kr
+
